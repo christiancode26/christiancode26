@@ -4,7 +4,7 @@
 
 💻 Tecnologia, Programação e Desenvolvimento
 
-📊 Interesse em Backend, Dados, Banco de Dados e Infraestrutura de TI
+📊 Interesse em Desenvolvimento fullstack, Dados, Banco de Dados e Suporte.
 
 Sou estudante de Ciência da Computação e estou desenvolvendo meus conhecimentos em programação, desenvolvimento de software, bancos de dados, redes e infraestrutura de TI. Busco transformar meus conhecimentos em projetos práticos e evoluir constantemente na área de Tecnologia.
 
@@ -37,6 +37,7 @@ Algoritmo e Lógica de Programação — Udemy
 Informática Básica — Cursa EAD
 Inglês — Centro de Ensino FISK
 Bootcamp de Inteligência Artificial e Cloud — DIO
+
 🚀 Projetos
 🩺 GlicoCare
 
@@ -56,7 +57,7 @@ Projetos acadêmicos envolvendo modelagem de dados, entidades, relacionamentos, 
 
 📚 Atualmente estudando
 
-Python • C/C++ • SQL • Banco de Dados • Git/GitHub • Backend • Redes de Computadores • Infraestrutura de TI • Engenharia de Software
+Python • C/C# • SQL • Banco de Dados • Git/GitHub • Backend • JavaScript • Infraestrutura de TI • Engenharia de Software
 
 🎯 Objetivo
 
@@ -64,7 +65,7 @@ Busco uma oportunidade de estágio ou primeira experiência profissional em Tecn
 
 Tenho interesse principalmente em:
 
-Backend • Dados • Banco de Dados • Infraestrutura de TI • Redes
+Desenvolvimento fullstack • Dados • Banco de Dados • Computação em nuvem • 
 
 📫 Contato
 
